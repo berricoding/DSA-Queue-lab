@@ -21,6 +21,7 @@ switch(num){
         break;
     case 3:
        AQ.display();
+       break;
     case 4:
         scanner.close();
         return;

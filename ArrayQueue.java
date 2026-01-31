@@ -61,10 +61,11 @@ public void display(){
     }else {
     System.out.println("AQ list: ");
      for(int i=f; i <=r; i++ ){
-     System.out.print(data[i]+" ");
-     System.out.println();
+     System.out.print(data[i]+"->");
+     System.out.print("");
      
      }
+System.out.println("");
      
      
     }
